@@ -1,0 +1,8 @@
+{
+    "botShape": "default",
+    "path": "/",
+    "mat": "Country Road Mat",
+    "type": "Bee-Bot",
+    "commands": "fd,ps,fd,fd,ps,fd,rt,fd,fd,fd,ps",
+    "visible": true
+}
